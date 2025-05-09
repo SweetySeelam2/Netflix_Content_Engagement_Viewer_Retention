@@ -17,4 +17,28 @@ Page Title	Purpose	Visual Theme
 1. Global Overview	Engagement trend by release year, country, type	Total titles by year, genre heatmaps, filters
 2. Drop-Off Risk Matrix	Identify content with high disengagement signals	Genre × Duration × Release Year matrix
 3. Hidden Opportunity Zones	Uncover under-leveraged content with strong potential	Genre × Country views with KPIs
-4. Recommendation Studio	Suggestions to reduce churn & improve stickiness	Strategic genre expansion, length targeting
+4. Recommendation Studio	Suggestions to reduce churn & improve stickiness	Strategic genre expansion, length targeting.
+
+PAGE 2 TITLE:
+📉 Drop-Off Risk & Duration Analysis
+
+📄 PURPOSE:
+Identify patterns where viewers stop watching early, based on:
+
+Content type
+
+Duration
+
+Genre
+
+Engagement trends
+
+Use this page to:
+
+Detect content categories with high drop-off risk
+
+Recommend optimal content duration
+
+Spot long vs. short bingeability
+
+
