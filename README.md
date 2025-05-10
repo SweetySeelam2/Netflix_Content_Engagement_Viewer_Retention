@@ -41,4 +41,15 @@ Recommend optimal content duration
 
 Spot long vs. short bingeability
 
+📄 PURPOSE:
+Show how Netflix content performs across countries/regions, including:
+
+Top content-producing countries
+
+Regional differences in content type or genre
+
+Engagement differences by region
+
+Localized preferences (e.g., India: TV shows, US: Movies, etc.)
+
 
