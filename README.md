@@ -6,12 +6,14 @@ This project merges **data analysis, visual storytelling, and business impact mo
 
 ---
 
-**Goal:**
+**Goal:**                                                                                                                                                                           
+
 Discover patterns of viewer engagement, drop-offs, inefficiencies, and make powerful recommendations for Netflix - enabling them to make smarter, more audience-aligned content decisions.
 
 ---
 
 **💡Project Objectives:**
+
 - Identify which content types and durations lead to early viewer drop-off.
 - Reveal high-engagement content zones across genres and countries.
 - Measure production vs. engagement mismatch (Success Gap).
@@ -20,9 +22,10 @@ Discover patterns of viewer engagement, drop-offs, inefficiencies, and make powe
 
 ---
 
-**📊 Dataset:**
-Netflix dataset from Kaggle:
-🔗 [Netflix Movies and TV Shows – Kaggle Link] (https://www.kaggle.com/datasets/shivamb/netflix-shows)
+**📊 Dataset:**       
+
+Netflix dataset from Kaggle:                                                                                                                                                                                            
+🔗 [Netflix Movies and TV Shows – Kaggle Link] (https://www.kaggle.com/datasets/shivamb/netflix-shows)                                                                                                           
 
 ---
 
@@ -36,7 +39,8 @@ Netflix dataset from Kaggle:
 
 
 **Page 2: 📉 Drop-Off Risk & Duration Analysis**
-📄 Purpose:
+
+📄 Purpose:                                                                                                                                      
 Identify patterns where viewers stop watching early, based on:
 - Content type
 - Duration
@@ -51,7 +55,8 @@ Identify patterns where viewers stop watching early, based on:
 
 
 **Page 3: Regional Content & Audience Insights**
-📄 Purpose:
+
+📄 Purpose:                                                                                                                 
 Show how Netflix content performs across countries/regions, including:
 - Top content-producing countries.
 - Regional differences in content type or genre.
@@ -147,8 +152,8 @@ This 6-page report condenses the key insights, visuals, KPIs, and estimated busi
 
 ## 📬 Author
 
-**Sweety Seelam**  
-🎯 Business Data Analyst | Aspiring Data Scientist  
+**Sweety Seelam**                                                                                                                                         
+🎯 Business Analyst | Aspiring Data Scientist  
 📁 [Portfolio Website](https://sweetyseelam2.github.io/SweetySeelam.github.io/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sweetyrao670/)  
 💻 [GitHub](https://github.com/SweetySeelam2)
@@ -163,6 +168,8 @@ This 6-page report condenses the key insights, visuals, KPIs, and estimated busi
 
 ## License
 
-MIT License
-Copyright (c) 2025 Sweety Seelam
-This project is licensed under the MIT License. You are free to use, modify, and share this work with proper attribution.
+MIT License     
+
+Copyright (c) 2025 Sweety Seelam  
+                                                                                                                    
+This project is licensed under the MIT License. You are free to use, modify, and share this work with proper attribution.                                                 
