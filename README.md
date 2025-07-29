@@ -166,10 +166,7 @@ This 6-page report condenses the key insights, visuals, KPIs, and estimated busi
 
 ---
 
-## License
+## 🔒 Proprietary & All Rights Reserved
+© 2025 Sweety Seelam. This work is proprietary and protected by copyright. All content, models, code, and visuals are © 2025 Sweety Seelam. No part of this project, app, code, or analysis may be copied, reproduced, distributed, or used for any purpose—commercial or otherwise—without explicit written permission from the author.
 
-MIT License     
-
-Copyright (c) 2025 Sweety Seelam  
-                                                                                                                    
-This project is licensed under the MIT License. You are free to use, modify, and share this work with proper attribution.                                                 
+For licensing, commercial use, or collaboration inquiries, please contact: Email: sweetyseelam2@gmail.com                                                 
