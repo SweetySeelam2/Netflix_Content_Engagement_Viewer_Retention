@@ -1,5 +1,7 @@
 # Netflix Content Engagement & Viewer Retention: Hooked or Dropped
 
+---
+
 A Power BI storytelling project that explores **viewer engagement patterns, drop-off risks**, and **strategic content opportunities** across Netflix’s global catalog — based on genre, duration, and country trends.
 
 This project merges **data analysis, visual storytelling, and business impact modeling** into an interactive Power BI dashboard and executive PDF report.
